@@ -8,8 +8,9 @@
 ##### Présentation:
 # Développé:
 
-<img src="https://i.ibb.co/M6qqBgt/app-finance.jpg" width="50%" />
+<img src="https://i.ibb.co/M6qqBgt/app-finance.jpg" width="100%" />
 ![alt text](https://s6.gifyu.com/images/appea29c35869b1a8ff.gif)  
 
 # Attendue:
-![alt text](https://i.ibb.co/CvXw0Sd/1627636419501.png) 
+
+<img src="https://i.ibb.co/CvXw0Sd/1627636419501.png" width="60%" />
