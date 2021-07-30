@@ -9,7 +9,7 @@
 ##### Développé:
 
 <img src="https://i.ibb.co/M6qqBgt/app-finance.jpg" width="100%" />
-<img src="https://thumbs.gfycat.com/ParallelElegantCaracal-size_restricted.gif" width="100%" />
+<img src="https://thumbs.gfycat.com/ParallelElegantCaracal-size_restricted.gif" width="60%" />
 
 ##### Attendue:
 
