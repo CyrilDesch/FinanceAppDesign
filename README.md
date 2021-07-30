@@ -7,7 +7,7 @@
  
 ##### Présentation:
 # Développé:
-![alt text](https://i.ibb.co/M6qqBgt/app-finance.jpg | width=100)
+![alt text](https://i.ibb.co/M6qqBgt/app-finance.jpg){:width="60%"}
 ![alt text](https://s6.gifyu.com/images/appea29c35869b1a8ff.gif)  
 
 # Attendue:
