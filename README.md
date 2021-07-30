@@ -2,12 +2,12 @@
 
 ##### Projet expérimental
 ## Objectif du projet
-+ Recopier un design d'application en Flutter (sans police de caractère et icone correspondant).
++ Recopier un design d'application en Flutter (sans police de caractère et icônes correspondant).
 + Ajouts d'animations 
  
 ##### Présentation:
 # Développé:
-![alt text](https://i.ibb.co/M6qqBgt/app-finance.jpg)
+![alt text](https://i.ibb.co/M6qqBgt/app-finance.jpg | width=100)
 ![alt text](https://s6.gifyu.com/images/appea29c35869b1a8ff.gif)  
 
 # Attendue:
