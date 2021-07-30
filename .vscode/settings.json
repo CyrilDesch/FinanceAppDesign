@@ -1,0 +1,7 @@
+{
+  "editor.overviewRulerBorder": false,
+  "editor.rulers": [],
+  "[dart]":{
+    "editor.rulers": [],
+  }
+}
